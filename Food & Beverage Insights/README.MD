@@ -58,6 +58,4 @@ With **Cola-Coka** dominating the market, craft strategies that highlight **Code
 ---
 
 ## 📌 Author  
-👤 **[Your Name]**  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📧 [Email](mailto:your-email@example.com)  
+👤 **Syed Nasir Ali Shah**  
